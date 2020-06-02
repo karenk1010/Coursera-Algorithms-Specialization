@@ -6,7 +6,7 @@ Repository Contains programing assignment implementaitons in python3 and more. A
 
 
 ## Content:
-- [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://github.com/karenk1010/Coursera-Algorithms-Specialization/tree/master/Course-1:Divide-and-Conquer)
+- [Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](Course-1:Divide-and-Conquer)
 - [Course 2: Graph Search, Shortest Paths, and Data Structures](https://github.com/karenk1010/Coursera-Algorithms-Specialization/tree/master/Course-2:Graphs)
 - [Course 3: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://github.com/karenk1010/Coursera-Algorithms-Specialization/tree/master/Course-3:Greedy-Algorithms)
 - [Course 4: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://github.com/karenk1010/Coursera-Algorithms-Specialization/tree/master/Course-4:Shortest-Path-Revisited)
