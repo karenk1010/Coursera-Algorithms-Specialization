@@ -13,4 +13,4 @@ Repository Contains programing assignment implementaitons in python3 and more. A
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
