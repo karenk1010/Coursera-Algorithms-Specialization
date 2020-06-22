@@ -8,7 +8,7 @@
 - Heaps
 - Balanced binary search trees
 
-## Weeek 4
+## Week 4
 - Hashing: the basics
 - Universal hashing
 - Bloom filters

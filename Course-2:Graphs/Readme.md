@@ -11,7 +11,7 @@
 - Quicksort analysis
 - Probabality review
 
-## Weeek 4
+## Week 4
 - Linear-time selection
 - Graphs and the contraction algorithm
 

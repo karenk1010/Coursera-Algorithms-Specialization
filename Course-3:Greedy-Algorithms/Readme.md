@@ -4,10 +4,10 @@
 - Prim's Minimum Spanning Tree (MST) algorithm
 
 ## Week 2
-- asd
+- TBD
 
 ## Week 3
-- asd
+- TBD
 
-## Weeek 4
-- asd
+## Week 4
+- TBD
