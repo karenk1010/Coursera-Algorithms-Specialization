@@ -24,7 +24,7 @@ k of clusters is set to 4. What is the maximum spacing of a 4-clustering?
 ADVICE: If you're not getting the correct answer, try debugging your algorithm using some small test cases.
 And then post them to the discussion forum!
 
-- problem#1 answer: <??>
+- problem#1 answer: 106
 """
 # }}}
 
