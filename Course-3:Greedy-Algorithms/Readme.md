@@ -4,7 +4,8 @@
 - Prim's Minimum Spanning Tree (MST) algorithm
 
 ## Week 2
-- TBD
+- Kruskal's Minimum Spanning Tree (MST) algorithm
+- Union Find data structure
 
 ## Week 3
 - TBD
