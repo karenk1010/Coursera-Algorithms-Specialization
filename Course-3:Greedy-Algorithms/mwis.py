@@ -29,7 +29,7 @@ For example, if you think that the vertices 1, 4, 17, and 517 are in the maximum
 independent set and the other four vertices are not, then you should enter the string 
 10011010 in the box below.
 
-- problem#1 answer: 106
+- problem#1 answer: 10100110
 """
 # }}}
 
