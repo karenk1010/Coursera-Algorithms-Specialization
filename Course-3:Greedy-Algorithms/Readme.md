@@ -1,14 +1,18 @@
 ## Week 1
-- Introduction to greedy algorithms
-- A scheduling application
-- Prim's Minimum Spanning Tree (MST) algorithm
+- Introduction to Greedy Algorithms
+- A Scheduling Application
+- Prim's Minimum Spanning Tree (MST) Algorithm
 
 ## Week 2
-- Kruskal's Minimum Spanning Tree (MST) algorithm
+- Kruskal's Minimum Spanning Tree (MST) Algorithm
 - Union Find data structure
 
 ## Week 3
-- TBD
+- Huffman Codes
+- WIS in Path Graphs
+- Introduction to Dynamic Programming
 
 ## Week 4
-- TBD
+- The Knapsack Problem
+- Sequence Alignment
+- Optimal Binary Search Trees
